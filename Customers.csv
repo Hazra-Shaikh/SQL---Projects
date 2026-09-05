@@ -1,0 +1,15 @@
+﻿CustomerID,CustomerName,City,State,Email,Phone,JoinDate
+1,Rohit Sharma,Pune,Maharashtra,rohit.sharma@mail.com,9876543210,2023-01-15
+2,Sneha Kulkarni,Mumbai,Maharashtra,sneha.k@mail.com,9876543211,2023-02-10
+3,Aman Verma,Delhi,Delhi,aman.verma@mail.com,9876543212,2023-01-22
+4,Priya Nair,Bangalore,Karnataka,priya.nair@mail.com,9876543213,2023-03-05
+5,Karan Mehta,Ahmedabad,Gujarat,karan.mehta@mail.com,9876543214,2023-02-18
+6,Neha Joshi,Pune,Maharashtra,neha.joshi@mail.com,9876543215,2023-04-01
+7,Vikram Singh,Jaipur,Rajasthan,vikram.singh@mail.com,9876543216,2023-03-12
+8,Anjali Rao,Hyderabad,Telangana,anjali.rao@mail.com,9876543217,2023-05-09
+9,Suresh Iyer,Chennai,Tamil Nadu,suresh.iyer@mail.com,9876543218,2023-01-30
+10,Meera Pillai,Kochi,Kerala,meera.pillai@mail.com,9876543219,2023-06-14
+11,Arjun Desai,Pune,Maharashtra,arjun.desai@mail.com,9876543220,2023-04-25
+12,Divya Kapoor,Delhi,Delhi,divya.kapoor@mail.com,9876543221,2023-05-30
+13,Rajesh Kulkarni,Nagpur,Maharashtra,rajesh.kulkarni@mail.com,9876543222,2023-07-01
+14,Isha Bansal,Surat,Gujarat,isha.bansal@mail.com,9876543223,2023-07-10
